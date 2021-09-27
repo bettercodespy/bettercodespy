@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bettercodespy
+- 👋 Hi, my name Kiran
 - 👀 I’m interested in cutting edge technologies and learning each day
 - 🌱 I’m currently learning Data science, APIs, Automation, end to end frameworks
 - 💞️ I’m looking to collaborate on everything related to coding
